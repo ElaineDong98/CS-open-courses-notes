@@ -4,7 +4,7 @@ Including intro to python, java, machine learning, and related courses
 > email: yilin.dong@emory.edu <br>
 > start date: 2018 Sep 29
 
-# learning Now
+## learning Now
 ### Coursera
 * Machine Learning 
 https://www.coursera.org/learn/machine-learning/supplement/aAgxl/what-is-machine-learning
@@ -14,10 +14,10 @@ https://www.coursera.org/learn/machine-learning/supplement/aAgxl/what-is-machine
 * CS 212 Design of Computer Programs
 
 
-# Want to learn
+## Want to learn
 * Coursera - Algorithms: Design and Analysis Part 2
 * Udacity - CS271 AI
 
 
-# Have learned
+## Have learned
 
