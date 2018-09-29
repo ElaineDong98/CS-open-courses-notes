@@ -1,8 +1,8 @@
 # CS-open-courses-notes
 Including intro to python, java, machine learning, and related courses
->author: Yilin(Elaine) Dong
->email: yilin.dong@emory.edu
->start date: 2018 Sep 29
+> author: Yilin(Elaine) Dong <br>
+> email: yilin.dong@emory.edu <br>
+> start date: 2018 Sep 29
 
 # learning Now
 ### Coursera
